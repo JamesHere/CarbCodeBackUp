@@ -1,0 +1,4 @@
+Game finish! Hope you enjoy!
+Author:James Chen
+CSCI-1310--Project1
+Game name: Fate

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1477676054 source:/home/user/Dropbox/code/Fate/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"Fate.h"
+
+1477677913 source:/home/user/Dropbox/code/Fate/src/Fate.cpp
+	"Fate.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<stdlib.h>
+
+1477676876 /home/user/Dropbox/code/Fate/include/Fate.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+
+1477676054 source:/home/user/Downloads/Fate-Project/Fate/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"Fate.h"
+
+1477676876 /home/user/Downloads/Fate-Project/Fate/include/Fate.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+
+1477678504 source:/home/user/Downloads/Fate-Project/Fate/src/Fate.cpp
+	"Fate.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<stdlib.h>
+
